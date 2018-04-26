@@ -1,15 +1,25 @@
 {
   "name": "index.js",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index" 
+    "start": "node index"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel-Oommen/ELEN4010-Lab-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joel-Oommen/ELEN4010-Lab-2/issues"
+  },
+  "homepage": "https://github.com/Joel-Oommen/ELEN4010-Lab-2#readme",
+  "description": ""
 }
